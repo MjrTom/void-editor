@@ -180,7 +180,7 @@
     "cookie": "^0.7.2",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.9.1",
-    "cssnano": "^6.0.3",
+    "cssnano": "^7.0.6",
     "debounce": "^1.0.0",
     "deemon": "^1.8.0",
     "electron": "34.3.2",
