@@ -11,6 +11,10 @@
 
 Void is the open-source Cursor alternative.
 
+This project currently, at the time of my editing this README.md file, has: 
+14 security vulnerability issues revolving around dependncy versions.
+182+ security vulnerability issues revolving around code.
+
 This repo contains the full sourcecode for Void. We are currently in [open beta](https://voideditor.com/email) for Discord members (see the `announcements` channel), with a waitlist for our official release. If you're new, welcome!
 
 - 👋 [Discord](https://discord.gg/RSNjgaugJs)
