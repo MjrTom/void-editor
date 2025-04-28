@@ -123,7 +123,7 @@
     "ollama": "^0.5.14",
     "open": "^8.4.2",
     "openai": "^4.86.1",
-    "posthog-node": "^4.8.1",
+    "posthog-node": "^4.14.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-tooltip": "^5.28.1",
