@@ -73,7 +73,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
     "@floating-ui/react": "^0.27.5",
-    "@google/generative-ai": "^0.22.0",
+    "@google/generative-ai": "^0.24.1",
     "@microsoft/1ds-core-js": "^3.2.13",
     "@microsoft/1ds-post-js": "^3.2.13",
     "@mistralai/mistralai": "^1.5.0",
