@@ -121,7 +121,7 @@
     "native-watchdog": "^1.4.1",
     "node-pty": "1.1.0-beta30",
     "ollama": "^0.5.14",
-    "open": "^8.4.2",
+    "open": "^10.1.2",
     "openai": "^4.86.1",
     "posthog-node": "^4.8.1",
     "react": "^19.0.0",
